@@ -1,7 +1,0 @@
-{
-  "name": "crypto-ict-screener",
-  "version": "1.0.0",
-  "description": "ICT Smart Money Screener for Cryptocurrency — OB · FVG · MSB · LS · OTE",
-  "scripts": { "dev": "vercel dev" },
-  "dependencies": {}
-}
