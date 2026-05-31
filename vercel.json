@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/scan.js":  { "maxDuration": 60 },
-    "api/coins.js": { "maxDuration": 30 },
-    "api/debug.js": { "maxDuration": 15 }
-  }
-}
